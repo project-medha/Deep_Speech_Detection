@@ -22,6 +22,7 @@ This project focuses on detecting fake audio samples using machine learning tech
 ## Dataset
 - **Real Audio Samples**: Located in the `REAL` folder.
 - **Fake Audio Samples**: Located in the `FAKE` folder.
+- link -https://kaggle.com/datasets/8eb57845a2c5114ee3019f98b6f255b90cacffef61fc61eeff144a57668fb7b7
 
 ## How to Use
 ### 1. Prerequisites
